@@ -27,6 +27,17 @@ Each device folder includes a presentation covering the device architecture, ele
 - Microsoft PowerPoint - Technical Documentation
 - Datasheets and technical documentation - Device Analysis
 
+## Key Learning Outcome
+- Understanding the operating principles of power converters
+- Designing and simulating converter circuits using LTspice
+- Analyzing voltage and current waveforms
+- Understanding switching behavior in power converters
+- Studying Power Factor Correction techniques
+- Understanding the operation of Totem-Pole PFC architectures
+- Studying GaN power devices and their electrical characteristics
+- Interpreting semiconductor device datasheets
+- Understanding the role of GaN devices in high-frequency power conversion
+
 ## Repository Structure
 
 ```text
@@ -44,3 +55,4 @@ Power-Electronics-Internship/
     ├── PMP23611/
     ├── TIDA-010936/
     └── TIDA-050089/
+
